@@ -1,0 +1,42 @@
+#dropdown-button-1 {
+    position: relative;
+    left: 250px;
+    margin-top: 30px;
+}
+
+#desc {
+    position: relative;
+    top: 100px;
+    left: 300px;
+    font-size: x-large;
+    font-style: oblique;
+    font-weight: 500;
+    width: fit-content;
+}
+
+#err {
+    margin-top: 70px;
+}
+
+#buttc {
+    position: relative;
+    top: 150px;
+    left: -100px
+}
+
+#del {
+    position: relative;
+    left: 60px
+}
+
+#welcome {
+    margin-top: 120px;
+    font-size: x-large;
+    font-weight: 230;
+}
+
+#msg{
+    position: relative;
+    top: 70px;
+    left: 350px 
+}

@@ -1,0 +1,12 @@
+#login-form{
+    margin-inline: 40%;
+}
+
+
+#login{
+    border-radius: 0.4rem;
+    width: 20%;
+    margin-top: 5px;
+    background-color: grey;
+    border-color: black;
+}

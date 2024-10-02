@@ -1,0 +1,13 @@
+#home {
+    position: relative;
+    left: -570px
+}
+
+#person {
+    margin-right: 0.5rem;
+}
+
+#log {
+    background-color: grey;
+    border-color: black;
+}
